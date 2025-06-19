@@ -23,13 +23,19 @@ This project collects and processes personal financial data using a full stack w
 
 ## Project Structure
 
-application.py # Main Flask app that runs the survey form and handles logic
-Flask Healthcare Application.py # Version used for local testing before AWS deployment
-requirements.txt # Lists all required Python packages
-procfile # Tells AWS how to run the Flask app
-user_data.csv # Stores survey responses locally for visualization
-Flask Healthcare Application.ipynb # Jupyter notebook for analysis and chart generation
-charts/ # Folder containing exported visual charts (PNG/JPG)
+application.py : Main Flask app that runs the survey form and handles logic
+
+Flask Healthcare Application.py : Version used for local testing before AWS deployment
+
+requirements.txt : Lists all required Python packages
+
+procfile : Tells AWS how to run the Flask app
+
+user_data.csv : Stores survey responses locally for visualization
+
+Flask Healthcare Application.ipynb : Jupyter notebook for analysis and chart generation
+
+charts/ : Folder containing exported visual charts (PNG/JPG)
 
 ---
 
