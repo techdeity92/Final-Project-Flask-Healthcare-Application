@@ -64,5 +64,7 @@ MongoDB connection string is included in application.py.
 
 ## Live Application
 
-Access the deployed survey here:  
-https://FlaskHealthcareApplication-env.eba-33qksxmn.us-east-2.elasticbeanstalk.com
+Access the deployed survey here:
+
+(http://flaskhealthcareapplication-env.eba-33qksxmn.us-east-2.elasticbeanstalk.com/)
+
