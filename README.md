@@ -25,7 +25,7 @@ This project collects and processes personal financial data using a full stack w
 Flask Healthcare Application.py used for testing before hosting in AWS.
 application.py # Flask app that runs the survey form and handles logic
 requirements.txt # Lists all Python packages needed
-procfile # Tells AWS how to run the app using Gunicorn
+procfile # Tells AWS how to run the app
 user_data.csv # Local file where survey data is saved (for visualization)
 Flask Healthcare Application.ipynb # Jupyter notebook for data analysis and charts
 charts/ # Folder with exported charts (PNG or JPG)
